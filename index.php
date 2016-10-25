@@ -29,7 +29,7 @@
 					</article>
 				<?php endwhile; ?>
 			<?php else : ?>
-				<?php echo wpautop('Sorry, No posts were found'); ?>
+				<?php echo wpautop('Please enter a Post'); ?>
 			<?php endif; ?>
 	</div>
 
