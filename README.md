@@ -1,0 +1,1 @@
+# simple_wordpress_blog_theme
